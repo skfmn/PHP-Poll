@@ -18,7 +18,7 @@ Be sure to change your password once you login.
 
 Add the code below where you want the Poll to appear on your webpage.
 
-<?php include "/poll/poll.php" ?>
+&lt;?php include "/poll/poll.php" ?&gt;
 
 You can wrap the code above in a span or div tag and use CSS to define the objects in the code.
 You can define most attributes like fonts, alignments and such!
