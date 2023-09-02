@@ -1,8 +1,4 @@
-
-* PHP Poll 1.2 copyright 2023
-* www.phpjunction.com
-* Licensed under GPL v3.0
-
+# PHP-Poll
 
 Installation Instructions
 
