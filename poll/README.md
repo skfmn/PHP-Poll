@@ -10,7 +10,7 @@ Once you have created the Database, Upload the "poll" folder and all of it conte
 
 
 > [!IMPORTANT]
-> Make sure you have 'write' permissions on the poll folder after you upload it!
+> Make sure you have ***write*** permissions on the poll folder after you upload it!
 
 
 Navigate to `http://www.yourwebsite.com/poll/install/install.php` and follow the instructions.
